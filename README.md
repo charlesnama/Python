@@ -1,2 +1,2 @@
 # Python
-Everything January 2022 python short web apps 
+Dedicating the month of January to building 15 Python web apps 
